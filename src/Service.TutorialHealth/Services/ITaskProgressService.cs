@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Threading.Tasks;
+using Service.Education.Contracts.State;
+using Service.Education.Contracts.Task;
 using Service.Education.Structure;
-using Service.TutorialHealth.Grpc.Models.State;
-using Service.TutorialHealth.Grpc.Models.Task;
 using Service.TutorialHealth.Models;
 
 namespace Service.TutorialHealth.Services

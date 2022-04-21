@@ -1,5 +1,5 @@
 ﻿using Service.Core.Client.Constants;
-using Service.TutorialHealth.Grpc.Models.State;
+using Service.Education.Contracts.State;
 using Service.TutorialHealth.Models;
 
 namespace Service.TutorialHealth.Mappers
